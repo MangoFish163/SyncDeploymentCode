@@ -7,6 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 /log/*
+__pycache__/*
 # Executables
 *.swf
 *.air

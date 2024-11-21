@@ -13,5 +13,6 @@ SHELL_FILE = "./git_pull.sh"
 # 如果有多个同步项目，可以在这里追加
 SYNC_DIR = {
     'Lar10':'/www/wwwroot/Lar/Lar10',
+    'SyncDeploymentCode':'/www/wwwroot/Lar/Lar10',
     # 'YourProjectDir':'/www/wwwroot/YourProjectDir'
 }
